@@ -31,7 +31,7 @@ The **Workday Account Creator Extension** is a Chrome extension designed to auto
 
 ### **1. Clone the Repository**
 ```bash
-git clone <repository-url>
+git clone https://github.com/chandan25809/workday-account-creator.git
 cd workday_account_creator
 ```
 
